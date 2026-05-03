@@ -19,5 +19,5 @@ The project served as the launchpad for learning the standard developer workflow
 
 ## 🏃 Website URL
 ```bash
-https://hientran20040303.github.io/portfolio-site-ISM3232/
+https://hientran20040303.github.io/portfolio-site/
 ```
